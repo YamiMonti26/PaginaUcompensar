@@ -38,8 +38,8 @@ nav ul li a {
 
 .cta-button {
     display: inline-block;
-    background: #333;
-    color: #FF5E33;
+    background: #FF5E33;
+    color: white;
     padding: 0.5rem 1rem;
     text-decoration: none;
     margin-top: 1rem;
@@ -51,8 +51,8 @@ nav ul li a {
 }
 
 footer {
-    background: #333;
-    color: #FF5E33;
+    background-color: #FF5E33;
+    color: white;
     text-align: center;
     padding: 1rem;
     position: fixed;
